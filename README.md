@@ -2,7 +2,7 @@
 This repository is meant for documentation, bug reports and feature requests.
 
 
-<img src="https://img.shields.io/github/actions/workflow/status/jipitiai/vscode-askcodebase/package.yaml?label=Build" alt="Build Status">  <a href="https://discord.gg/5Ny6UuNKVD" target="_blank"><img src="https://img.shields.io/discord/1063090582890758175?label=Discord" alt="Join Discord" /></a> <a href="https://twitter.com/intent/user?screen_name=AskCodebase" target="_blank"><img src="https://img.shields.io/twitter/follow/AskCodebase" alt="Follow Twitter" /></a>
+<a href="https://discord.gg/5Ny6UuNKVD" target="_blank"><img src="https://img.shields.io/discord/1063090582890758175?label=Discord" alt="Join Discord" /></a> <a href="https://twitter.com/intent/user?screen_name=AskCodebase" target="_blank"><img src="https://img.shields.io/twitter/follow/AskCodebase" alt="Follow Twitter" /></a>
 
 ### Your AI Programming Autopilot
 
